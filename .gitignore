@@ -1,0 +1,9 @@
+whole_brain_structure/edinburgh
+whole_brain_structure/tail_training_data
+
+*.csv
+*.pkl
+*nii.gz
+
+extract_longi_edinburgh_vol.ipynb
+extract_edinburgh_vol.ipynb
