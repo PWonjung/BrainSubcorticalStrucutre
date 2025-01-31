@@ -3,7 +3,8 @@ whole_brain_structure/tail_training_data
 
 *.csv
 *.pkl
-*nii.gz
+*.nii.gz
+*.npy
 
 extract_longi_edinburgh_vol.ipynb
 extract_edinburgh_vol.ipynb
