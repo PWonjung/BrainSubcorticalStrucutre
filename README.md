@@ -1,7 +1,8 @@
 # BrainSubcorticalStrucutre
 Brain Subcortical Strucutre Mesh Reconstruction from Template Mesh
 
-This is the official code for the paper "AI-based deformable hippocampal mesh reflects hippocampal morphological characteristics in relation to cognition in healthy older adults", W. Park., M. Hernandez, et al., medRxiv. doi:https://doi.org/10.1101/2024.10.28.24316272.
+This is the official code for the paper <b>"AI-based deformable hippocampal mesh reflects hippocampal morphological characteristics in relation to cognition in healthy older adults"</b>, W. Park., M. Hernandez, et al., medRxiv.
+doi: https://doi.org/10.1101/2024.10.28.24316272.
 
 This is the code for the pipeline of subcortical structure reconstruction from a template mesh.
 We provide the codes for
@@ -11,7 +12,9 @@ We provide the codes for
 
 We provide the template meshes in ```whole_brain_strucutre/temp_meshes``` as below.
 
+<p align="center">
 <img src="image/subcortical_areas.png" width="50%" alt="template meshes of subcortical structures">
+</p>
 
 The overall pipeline is following.
 
